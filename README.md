@@ -1,4 +1,4 @@
-# Capstone-1-2
+# Pygame
 
 ###### The project
 
